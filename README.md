@@ -5,11 +5,6 @@ Use Read-files.py script to split raw .geojsonl to smaller readable .geojsonl fi
 Use Extraction to extract data within polygon shapefile.
 WARNING: Runtimes vary from 15 minutes to 4 hours depending on PC specs.
 
-Malaysian building footprints have been processed and saved into shapefiles by respective states:
-\\MYKUL1-STOR\Library\Water Resources\GIS Data\Building_Footprint\Data
-
-Datasets of other countries are also available.
-The dataset is faily accurate, up to 80% of the time. But due to the nature of AI/ML models, errors can occur.
 For more information, please visit:
 https://github.com/microsoft/GlobalMLBuildingFootprints
 
