@@ -13,8 +13,13 @@ The dataset is faily accurate, up to 80% of the time. But due to the nature of A
 For more information, please visit:
 https://github.com/microsoft/GlobalMLBuildingFootprints
 
-Extraction.py
+Example – Extracted Building footprints near DHI KL office
+ ![DHI_KL](https://user-images.githubusercontent.com/93307196/214476036-17373dbd-ca36-491d-8389-91459d0e393c.png)
 
+Example – Extracted Building footprints near DHI KK office
+ ![DHI_KK](https://user-images.githubusercontent.com/93307196/214476044-4ba58a51-833f-4259-8097-88ff04be7ad9.png)
+
+Extraction.py instructions
 Input requirements:
 1. Shapefile (.shp)
 2. Have one field name called "ID" with name of area (basin, administrative region, forest reserve etc.)
