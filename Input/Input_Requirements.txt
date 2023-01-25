@@ -1,0 +1,7 @@
+Input requirements:
+1. Shapefile (.shp)
+2. Have one field name called "ID" with name of area (basin, administrative region, forest reserve etc.)
+3. Do not use special characters in "ID" column (i.e. ?/>,*;:".)
+4. Coordinate system as WGS84 (EPSG:4326)
+5. Delete shapefile and dependencies from folder after use. Only one shapefile will run in the script.
+   If multiple shapefile is in folder, script will only use the first shapefile it finds.
